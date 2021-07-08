@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyash Chhetri
 - 👀 I’m a Geek who is also interested in Photography/Videography
-- 🌱 I am familiar with C, C++, Java, JavaFx and FXML and a little of Python and C#
+- 🌱 I am familiar with C, C++, Java, JavaFx, HTML, CSS, Js, Ruby, FXML and a little of Python and C#
 - 📫 You can reach me out in Instagram - @dork_v3.0 and Twitter - @dork_v2
 - 🎓 I'm currently pursuing my Degree in B.E. Information Technology
 
