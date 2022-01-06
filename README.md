@@ -9,6 +9,10 @@ Get in touch with me on:
   * Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0)
   * Twitter - [@dork_v2](https://www.twitter.com/dork_v2)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=divyashC&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&hide=TeX&layout=compact)
+
 <!---
 divyashC/divyashC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
