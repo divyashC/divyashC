@@ -7,6 +7,7 @@
 - 🎓 I'm currently pursuing my Degree in B.E. Information Technology
 
 
+
 Get in touch with me on: 
 
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dork_v2)
@@ -14,11 +15,11 @@ Get in touch with me on:
 [![image](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyashC/)
 [![image](https://img.shields.io/badge/linkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyash-c-b72a58127/)
 [![image](https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyashchhetri@gmail.com)
-
 *Click ☝️☝️*
 
 <!--   * Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0)
   * Twitter - [@dork_v2](https://www.twitter.com/dork_v2) -->
+ 
   
 ### GitHub Stats
 
