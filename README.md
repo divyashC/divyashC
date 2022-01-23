@@ -6,7 +6,7 @@
 - 📫 You can reach me out in Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0) Twitter - [@dork_v2](https://www.twitter.com/dork_v2)
 - 🎓 I'm currently pursuing my Degree in B.E. Information Technology
 
-
+<br />
 
 Get in touch with me on: 
 
@@ -20,6 +20,7 @@ Get in touch with me on:
 <!--   * Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0)
   * Twitter - [@dork_v2](https://www.twitter.com/dork_v2) -->
  
+ <br />
   
 ### GitHub Stats
 
