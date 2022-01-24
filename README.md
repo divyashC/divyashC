@@ -1,4 +1,4 @@
-# *Welcome to my GitHub Page* #
+# Welcome To My GitHub Page #
 
 - 👋 Hi, I’m Divyash Chhetri
 - 👀 I’m a Geek who is also interested in Photography/Videography
