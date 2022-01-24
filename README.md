@@ -48,7 +48,9 @@ Get in touch with me on:
 </p>
 <p align="center">@divyashC's Top GitHub Languages</p>
 
-Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
+<br/>
+
+* Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩 *
 
 <!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dork_v2)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dork_v3.0/)
