@@ -16,20 +16,29 @@ Get in touch with me on:
 [![image](https://img.shields.io/badge/linkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyash-c-b72a58127/)
 [![image](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/Dork#0448)
 [![image](https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyashchhetri@gmail.com)
-
-
-<!--   * Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0)
-  * Twitter - [@dork_v2](https://www.twitter.com/dork_v2) -->
  
- <br />
+<br/>
   
 ### GitHub Stats
 
-![Divyash's GitHub stats](https://github-readme-stats.vercel.app/api/?username=divyashC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=divyashC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's GitHub Stats" />
+</p>
+<p align="center">@divyashC's GitHub Stats</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's Top GitHub Languages" />
+</p>
+<p align="center">@divyashC's Top GitHub Languages</p>
 
 Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
+
+<!-- 
+![Divyash's GitHub stats](https://github-readme-stats.vercel.app/api/?username=divyashC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 <!-- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BTDeveloperCommunity&count_private=true&show_icons=true&include_all_commits=true)
