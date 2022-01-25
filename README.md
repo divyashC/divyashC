@@ -15,7 +15,7 @@ Get in touch with me on:
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="divyashC's Twitter" />     
  </a>
  <a href="https://www.instagram.com/dork_v3.0/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="divyashC's Instagram" />    
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="divyashC's Instagram" />    
  </a>
  <a href="https://github.com/divyashC/">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="divyashC's GitHub" />    
