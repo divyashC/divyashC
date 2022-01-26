@@ -8,7 +8,8 @@
 
 <br />
 
-#### Get in touch with me on: ####
+
+### Get in touch with me on: ###
 
 <p align="center">
  <a href="https://twitter.com/dork_v2" target="_blank">
@@ -33,7 +34,8 @@
 
 <br/>
 
-#### Languages and Tools: ####
+
+### Languages and Tools: ###
 
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img
@@ -102,7 +104,7 @@
   
 ## GitHub Stats ##
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="200" height="50"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="250" height="50"/> </p>
 <p align="center">@divyashC's Profile Visits</p>
 
 <br />
