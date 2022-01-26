@@ -11,23 +11,92 @@
 Get in touch with me on: 
 
 <p align="center">
- <a href="https://twitter.com/dork_v2">
+ <a href="https://twitter.com/dork_v2" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="divyashC's Twitter" />     
  </a>
- <a href="https://www.instagram.com/dork_v3.0/">
+ <a href="https://www.instagram.com/dork_v3.0/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="divyashC's Instagram" />    
  </a>
- <a href="https://github.com/divyashC/">
+ <a href="https://github.com/divyashC/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="divyashC's GitHub" />    
  </a>
- <a href="https://www.linkedin.com/in/divyash-c-b72a58127/">
+ <a href="https://www.linkedin.com/in/divyash-c-b72a58127/" target="_blank">
   <img src="https://img.shields.io/badge/linkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="divyashC's LinkedIn" />    
  </a>
- <a href="https://discord.com/users/Dork#0448">
+ <a href="https://discord.com/users/Dork#0448" target="_blank">
   <img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="divyashC's Discord" />    
  </a>
- <a href="mailto:divyashchhetri@gmail.com">
+ <a href="mailto:divyashchhetri@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white" alt="divyashC's email - divyashchhetri@gmail.com" />    
+ </a>
+</p>
+
+<br/>
+
+Languages and Tools: 
+
+<p align="center">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+         alt="HTML" width="40" height="40" /> </a>
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"
+         width="40" height="40" /> 
+ </a>
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         alt="JavaScript" width="40" height="40" /> 
+ </a>
+
+ <a href="https://getbootstrap.com" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+         alt="Bootstrap" width="40" height="40" />
+ </a>
+
+ <a href="https://www.java.com" target="_blank"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+         width="40" height="40" /> 
+ </a>
+
+ <a href="https://www.cprogramming.com/" target="_blank"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"
+         height="40" /> 
+ </a>
+
+ <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"> <img
+         src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"
+         width="40" height="40" /> 
+ </a>
+
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
+         src="https://github.com/devicons/devicon/tree/master/icons/csharp" alt="C#" width="40" height="40" /> 
+ </a>
+
+ <a href="https://www.python.org" target="_blank"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
+         width="40" height="40" /> 
+ </a>
+
+ <a href="https://ruby-doc.org/" target="_blank"> <img
+         src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40"
+         height="40" /> 
+ </a>
+
+ <a href="https://dart.dev/guides" target="_blank">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40"
+         height="40" />
+ </a>
+
+ <a href="https://www.mysql.com/" target="_blank"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="mysql" width="40" height="40" /> 
+ </a>
+
+ <a href="https://reactjs.org/" target="_blank"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+         alt="ReactJs" width="40" height="40" /> 
  </a>
 </p>
  
