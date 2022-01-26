@@ -128,6 +128,13 @@
 
 <br/>
 
+### GitHub Trophies ###
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyashc" alt="Divyash's GitHub Trophies" /></a> </p>
+<p align="center">@divyashC's GitHub Trophies</p>
+
+<br/>
+
 *Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩*
 
 <!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dork_v2)
