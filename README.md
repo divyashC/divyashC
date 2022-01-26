@@ -130,7 +130,7 @@
 
 ### GitHub Trophies ###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyashc" alt="Divyash's GitHub Trophies" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=divyashc&row=2&column=4" alt="Divyash's GitHub Trophies" /></p>
 <p align="center">@divyashC's GitHub Trophies</p>
 
 <br/>
