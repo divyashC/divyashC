@@ -8,7 +8,7 @@
 
 <br />
 
-Get in touch with me on: 
+#### Get in touch with me on: ####
 
 <p align="center">
  <a href="https://twitter.com/dork_v2" target="_blank">
@@ -33,7 +33,7 @@ Get in touch with me on:
 
 <br/>
 
-Languages and Tools:
+#### Languages and Tools: ####
 
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img
