@@ -102,7 +102,7 @@ Languages and Tools:
   
 ## GitHub Stats ##
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="120" height="30"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="150" height="37.5"/> </p>
 <p align="center">@divyashC's Profile View</p>
 
 <p align="center">
