@@ -109,6 +109,11 @@
 
 <br />
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyashC&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&fire=FFCB2B" alt="Divyash's GitHub Streaks"/> </p>
+<p align="center">@divyashC's GitHub Streaks</p>
+
+<br />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=divyashC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's GitHub Stats" />
 </p>
