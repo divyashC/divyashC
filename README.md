@@ -64,7 +64,7 @@ Languages and Tools:
             src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"
             width="40" height="40" /> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/tree/master/icons/csharp" alt="C#" width="40" height="40" /> </a>
+            src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="Python" width="40" height="40" /> </a>
