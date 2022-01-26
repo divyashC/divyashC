@@ -13,7 +13,7 @@
 
 <p align="center">
  <a href="https://twitter.com/dork_v2" target="_blank">
-  <img src="https://github.com/divyashC/devicon/blob/master/icons/twitter/twitter-original.svg" alt="divyashC's Twitter" width="40" height="40" margin-right="5px"/>     
+  <img src="https://github.com/divyashC/devicon/blob/master/icons/twitter/twitter-original.svg" alt="divyashC's Twitter" width="40" height="40" margin-right="5"/>     
  </a>
  <a href="https://www.instagram.com/dork_v3.0/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyashC's Instagram" width="40" height="40" />    
