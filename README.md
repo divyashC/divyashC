@@ -102,8 +102,10 @@ Languages and Tools:
   
 ## GitHub Stats ##
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="150" height="37.5"/> </p>
-<p align="center">@divyashC's Profile View</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="200" height="50"/> </p>
+<p align="center">@divyashC's Profile Visits</p>
+
+<br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=divyashC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's GitHub Stats" />
