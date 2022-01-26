@@ -104,7 +104,7 @@
   
 ### GitHub Stats ###
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="250" height="50"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="220" height="40"/> </p>
 <p align="center">@divyashC's Profile Visits</p>
 
 <br />
