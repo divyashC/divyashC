@@ -36,7 +36,7 @@ Get in touch with me on:
   
 ## GitHub Stats ##
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&label=Profile%20views&color=0e75b6&style=flat" alt="dorji-tshering" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square@color=yellow" alt="Divyash's Profile Views" /> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=divyashC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's GitHub Stats" />
@@ -46,9 +46,8 @@ Get in touch with me on:
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square&color=yellow" alt="Divyash's Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's Top GitHub Languages" />
 </p>
-<p align="center">@divyashC's Top GitHub Languages</p>
 
 <br/>
 
