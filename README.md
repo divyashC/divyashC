@@ -106,6 +106,12 @@
     <a href="https://wordpress.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
             alt="Wordpress" width="40" height="40" /> </a>
+    <a href="https://www.sourcetreeapp.com/" target="_blank">
+        <img src="https://github.com/divyashC/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40"
+            height="40" /> </a>
+     <a href="https://www.vim.org/" target="_blank">
+        <img src="https://github.com/divyashC/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40"
+            height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40"
             height="40" /> </a>
@@ -114,6 +120,15 @@
             height="40" /> </a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
         <img src="https://github.com/divyashC/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40"
+            height="40" /> </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+        <img src="https://github.com/divyashC/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="PhotoShop" width="40"
+            height="40" /> </a>
+     <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+        <img src="https://github.com/divyashC/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"
+            height="40" /> </a>
+     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+        <img src="https://github.com/divyashC/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40"
             height="40" /> </a>
 </p>
  
