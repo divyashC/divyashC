@@ -13,23 +13,32 @@
 
 <p align="center">
  <a href="https://twitter.com/dork_v2" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="divyashC's Twitter" />     
+  <img src="https://github.com/divyashC/devicon/blob/master/icons/twitter/twitter-original.svg" alt="divyashC's Twitter" />     
  </a>
  <a href="https://www.instagram.com/dork_v3.0/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="divyashC's Instagram" />    
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyashC's Instagram" />    
  </a>
  <a href="https://github.com/divyashC/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="divyashC's GitHub" />    
+  <img src="https://github.com/divyashC/devicon/blob/master/icons/github/github-original.svg" alt="divyashC's GitHub" />    
+ </a>
+ <a href="https://stackoverflow.com/users/15124365" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyashC's StackOverflow Profile" />    
  </a>
  <a href="https://www.linkedin.com/in/divyash-c-b72a58127/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="divyashC's LinkedIn" />    
+  <img src="https://github.com/divyashC/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="divyashC's LinkedIn" />    
  </a>
  <a href="https://discord.com/users/Dork#0448" target="_blank">
-  <img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="divyashC's Discord" />    
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="divyashC's Discord" />
  </a>
- <a href="mailto:divyashchhetri@gmail.com" target="_blank">
+ <a href="https://dev.to/divyashc" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="divyashC's Dev.to Profile" />    
+ </a>
+ <a href="https://codepen.io/divyashc" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="divyashC's CodePen.io Profile" />    
+ </a>
+<!--  <a href="mailto:divyashchhetri@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white" alt="divyashC's email - divyashchhetri@gmail.com" />    
- </a>
+ </a> -->
 </p>
 
 <br/>
@@ -76,9 +85,15 @@
     <a href="https://dart.dev/guides" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40"
             height="40" /> </a>
+     <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+        <img src="https://github.com/divyashC/devicon/blob/master/icons/matlab/matlab-original.svg"
+            alt="MATLAB" width="40" height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a>
+            alt="MySQL" width="40" height="40" /> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img
+            src="https://github.com/divyashC/devicon/blob/master/icons/firebase/firebase-plain.svg"
+            alt="Firebase" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="ReactJs" width="40" height="40" /> </a>
@@ -96,6 +111,9 @@
             height="40" /> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Xd" width="40"
+            height="40" /> </a>
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+        <img src="https://github.com/divyashC/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40"
             height="40" /> </a>
 </p>
  
@@ -136,20 +154,3 @@
 <br/>
 
 *Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩*
-
-<!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dork_v2)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dork_v3.0/)
-[![image](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyashC/)
-[![image](https://img.shields.io/badge/linkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyash-c-b72a58127/)
-[![image](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/Dork#0448)
-[![image](https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyashchhetri@gmail.com) -->
-
-<!-- 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BTDeveloperCommunity&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&hide=TeX&layout=compact) -->
-
-<!---
-divyashC/divyashC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
---->
