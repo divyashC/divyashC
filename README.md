@@ -9,7 +9,7 @@
 <br />
 
 
-### Get in touch with me on: ###
+## Get in touch with me on: ##
 
 <p align="center">
  <a href="https://twitter.com/dork_v2" target="_blank">
@@ -35,7 +35,7 @@
 <br/>
 
 
-### Languages and Tools: ###
+## Languages and Tools: ##
 
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img
@@ -102,7 +102,7 @@
  
 <br/>
   
-### GitHub Stats ###
+## GitHub Stats ##
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="220" height="40"/> </p>
 <p align="center">@divyashC's Profile Visits</p>
@@ -128,7 +128,7 @@
 
 <br/>
 
-### GitHub Trophies ###
+## GitHub Trophies ##
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=divyashc&row=2&column=4" alt="Divyash's GitHub Trophies" /></p>
 <p align="center">@divyashC's GitHub Trophies</p>
