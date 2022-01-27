@@ -132,7 +132,14 @@
             height="40" /> </a>
 </p>
  
- 
+<br/>
+
+## Support ##
+
+<a href="https://www.buymeacoffee.com/divyashc" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="divyashC's Buy Me a Coffee"  width="210" height="50"/>    
+</a>
+
 <br/>
   
 ## GitHub Stats ##
