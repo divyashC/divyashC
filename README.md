@@ -136,7 +136,7 @@
 
 ## Support ##
 
-<p align="center>
+<p align="center">
  <a href="https://www.buymeacoffee.com/divyashc" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="divyashC's Buy Me a Coffee"  width="210" height="50"/>    
  </a>
@@ -147,7 +147,7 @@
   
 ## GitHub Stats ##
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="210" height="50"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="220" height="40"/> </p>
 <p align="center">@divyashC's Profile Visits</p>
 
 <br />
