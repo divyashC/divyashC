@@ -138,9 +138,10 @@
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/divyashc" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="divyashC's Buy Me a Coffee"  width="210" height="50"/>    
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="divyashC's Buy Me a Coffee"  width="250" height="60"/>    
  </a>
 </p>
+<p align="center">Click and Donate</p>
 
 <br/>
 <br/>
