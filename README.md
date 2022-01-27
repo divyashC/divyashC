@@ -144,7 +144,6 @@
 <p align="center">Click and Donate</p>
 
 <br/>
-<br/>
   
 ## GitHub Stats ##
 
