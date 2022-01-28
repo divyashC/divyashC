@@ -91,13 +91,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40"
             height="40" /> </a>
      <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-        <img src="https://github.com/divyashC/devicon/blob/master/icons/matlab/matlab-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"
             alt="MATLAB" width="40" height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="MySQL" width="40" height="40" /> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img
-            src="https://github.com/divyashC/devicon/blob/master/icons/firebase/firebase-plain.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
             alt="Firebase" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -112,10 +112,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
             alt="Wordpress" width="40" height="40" /> </a>
     <a href="https://www.sourcetreeapp.com/" target="_blank">
-        <img src="https://github.com/divyashC/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40"
             height="40" /> </a>
      <a href="https://www.vim.org/" target="_blank">
-        <img src="https://github.com/divyashC/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40"
             height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40"
@@ -124,16 +124,16 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Xd" width="40"
             height="40" /> </a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-        <img src="https://github.com/divyashC/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40"
             height="40" /> </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="https://github.com/divyashC/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="PhotoShop" width="40"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="PhotoShop" width="40"
             height="40" /> </a>
      <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-        <img src="https://github.com/divyashC/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"
             height="40" /> </a>
      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-        <img src="https://github.com/divyashC/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40"
             height="40" /> </a>
 </p>
  
