@@ -1,4 +1,4 @@
-# Welcome To My GitHub Page #
+# Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> #
 
 - 👋 Hi, I’m Divyash Chhetri
 - 👀 I’m a Geek who is also interested in Photography/Videography
