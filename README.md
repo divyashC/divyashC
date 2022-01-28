@@ -178,7 +178,7 @@
 
 ## GitHub Trophies ##
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=divyashc&row=2&column=4" alt="Divyash's GitHub Trophies" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=divyashc&row=2&column=4&theme=darkhub" alt="Divyash's GitHub Trophies" /></p>
 <p align="center">@divyashC's GitHub Trophies</p>
 
 <br/>
