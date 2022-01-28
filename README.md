@@ -174,6 +174,11 @@
 </p>
 <p align="center">@divyashC's GitHub Languages</p>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=divyashC&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Divyash's GitHub Contribution Graph" />
+</p>
+<p align="center">@divyashC's GitHub Contribution Graph</p>
+
 <br/>
 
 ## GitHub Trophies ##
