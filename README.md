@@ -1,7 +1,7 @@
-# <p align="center"> Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </p>
+<h1 align="center">Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <p align="center">
-  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;On+My+Developer+Journey;I+Do+A+Bit+Of+Front-end;Still+Studying+Back-end;%2B2+Years+Coding+Experience&center=true&width=380&height=45"></a>
+  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;On+My+Developer+Journey;I+Do+A+Bit+Of+Front-end;Still+Studying+Back-end;2%2B+Years+Coding+Experience&center=true&width=380&height=45"></a>
 </p>
 
 #
