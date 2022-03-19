@@ -1,6 +1,6 @@
 
  <p align="center">
- <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="GIF"/>
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" height="400" width="1200"alt="GIF"/>
  </p>
 
 <h1 align="center">
