@@ -1,4 +1,4 @@
-![GIF](https://gfycat.com/exemplaryfairfeline)
+![GIF](https://thumbs.gfycat.com/ExemplaryFairFeline-mobile.mp4)
  
  <img src="https://gfycat.com/ifr/ExemplaryFairFeline" alt="GIF" align="center"/>
 
