@@ -1,6 +1,6 @@
 
  <p align="center">
- <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="400" height="300" alt="GIF"/>
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="GIF"/>
  </p>
 
 <h1 align="center">
