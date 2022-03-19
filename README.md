@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gfycat.com/ifr/ExemplaryFairFeline">
+  ![GIF](https://gfycat.com/ifr/ExemplaryFairFeline)
  </p>
 
 <h1 align="center">Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
