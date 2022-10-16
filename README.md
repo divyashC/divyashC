@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;On+My+Developer+Journey;I+Do+A+Bit+Of+Front-end;Still+Studying+Back-end;2%2B+Years+Coding+Experience&center=true&width=380&height=45"></a>
+  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;On+My+Developer+Journey;I+Do+A+Bit+Of+Front-end;Still+Studying+Back-end;3%2B+Years+Coding+Experience&center=true&width=380&height=45"></a>
 </p>
 
 
