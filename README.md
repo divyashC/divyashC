@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;On+My+Developer+Journey;I+Do+A+Bit+Of+Front-end;Still+Studying+Back-end;3%2B+Years+Coding+Experience&center=true&width=380&height=45"></a>
+  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;On+My+Developer+Journey;I+use+ReactJs+for+Frontend;ASP.NET+Core+6+for+Backend;Flutter+for+mobile;Still+exploring+stuffs;3%2B+Years+of+Coding+Experience&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -109,6 +109,12 @@
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="ReactJs" width="40" height="40" /> </a>
+    <a href="https://flutter.dev" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
+            alt="Flutter" width="40" height="40" /> </a>
+   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
+            alt="ASP.NET" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40"
             height="40" /> </a>
