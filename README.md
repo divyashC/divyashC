@@ -97,6 +97,15 @@
     <a href="https://dart.dev/guides" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40"
             height="40" /> </a>
+    <a href="https://www.markdownguide.org/" target="_blank"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="MarkDown"
+        width="40" height="40" /> </a>
+  <a href="https://www.swift.org/documentation/" target="_blank"> <img
+          src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="40"
+          height="40" /> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img
+          src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind"
+          width="40" height="40" /> </a>
      <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"
             alt="MATLAB" width="40" height="40" /> </a>
@@ -109,30 +118,60 @@
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="ReactJs" width="40" height="40" /> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJs"
+        width="40" height="40" /> </a>
+    <a href="https://expressjs.com/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJs"
+            width="40" height="40" /> </a>
     <a href="https://flutter.dev" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
             alt="Flutter" width="40" height="40" /> </a>
+   <a href="https://developer.android.com/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"
+            alt="Android" width="40" height="40" /> </a>
    <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
             alt="ASP.NET" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40"
             height="40" /> </a>
+    <a href="https://www.redhat.com/en" target="_blank"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="RedHat"
+        width="40" height="40" /> </a>
+    <a href="https://tomcat.apache.org/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40"
+            height="40" /> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40"
+            height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40"
             height="40" /> </a>
+    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+        alt="MSSQL" width="40" height="40" /> </a>
     <a href="https://wordpress.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
             alt="Wordpress" width="40" height="40" /> </a>
     <a href="https://www.sourcetreeapp.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40"
             height="40" /> </a>
+    <a href="https://heroku.com" target="_blank"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40"
+        height="40" /> </a>
      <a href="https://www.vim.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40"
             height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40"
             height="40" /> </a>
+    <a href="https://www.canva.com/" target="_blank"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40"
+        height="40" /> </a>
+    <a href="https://codepen.io/" target="_blank"> <img
+        src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="CodePen" width="40"
+        height="40" /> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Xd" width="40"
             height="40" /> </a>
