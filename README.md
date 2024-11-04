@@ -8,15 +8,20 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;On+My+Developer+Journey;I+use+ReactJs+for+Frontend;ASP.NET+Core+6+for+Backend;Flutter+for+mobile;Still+exploring+stuffs;3%2B+Years+of+Coding+Experience&center=true&width=380&height=45"></a>
+  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Freelancer;On+My+Developer+Journey;I+use+NextJs+for+Frontend;ASP.NET+Core+6+for+Backend;ReactNative+and+Flutter+for+mobile;Still+exploring+stuffs;5%2B+Years+of+Coding+Experience&center=true&width=380&height=45"></a>
 </p>
 
 
 - 👋 Hi, I’m Divyash Chhetri
-- 👀 I’m a Geek who is also interested in Photography/Videography
-- 🌱 I am familiar with C, C++, Java, HTML, CSS, JavaScript, Ruby, Python, Dart and a little of C#
-- 📫 You can reach me out in Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0) Twitter - [@dork_v2](https://www.twitter.com/dork_v2)
-- 🎓 I'm currently pursuing my Degree in B.E. Information Technology
+- 👀 I'm a tech enthusiast with a passion for photography and videography
+- 🌱 Proficient in C, C++, Java, JavaScript, Python, Dart, Ruby, HTML, and CSS, with some experience in C#
+- 📫 Reach me on [Instagram - @dork_v3.0](https://www.instagram.com/dork_v3.0) or [Twitter - @dork_v2](https://www.twitter.com/dork_v2)
+- 🎓 B.E. in Information Technology
+
+---
+
+**About Me**  
+I’m a versatile full-stack developer with a strong background in Information Technology. Specializing in Next.js, ASP.NET, and the MERN stack, I bring a well-rounded skill set to freelance projects, building user-friendly applications and managing IT outsourcing efficiently. As a competitive programmer (2nd place, university-level ICPC), I’m skilled in Python, C#, JavaScript, and Java, and I have expertise in cross-platform development with React Native and Flutter. My interests also span computer hardware, multimedia, and emerging tech, which I actively explore to keep my solutions innovative and effective.
 
 <br />
 
