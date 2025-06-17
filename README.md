@@ -1,248 +1,240 @@
+<!-- Header with animated background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:01a3ff&height=300&section=header&text=Divyash%20Chhetri&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Consultant%20%7C%20Full%20Stack%20Developer%20%7C%20UI/UX%20Designer&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
- <p align="center">
- <img src="https://rishavanand.github.io/static/images/greetings.gif" height="450" width="800"alt="GIF"/>
- </p>
+<!-- Profile info with icons -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/divyashC.png" width="200px" style="border-radius: 50%; border: 5px solid #00d4aa;" />
+        <br><br>
+        <h3>🚀 About Me</h3>
+        <p><em>Transforming ideas into digital reality</em></p>
+      </td>
+      <td align="center" width="50%">
+        <h3>📊 Quick Stats</h3>
+        <p>🌍 <strong>Location:</strong> Thimphu, Bhutan</p>
+        <p>💼 <strong>Experience:</strong> 5+ Years</p>
+        <p>🎓 <strong>Education:</strong> B.E. Information Technology</p>
+        <p>🏢 <strong>Company:</strong> ByteTech Labs (Founder)</p>
+        <p>🎯 <strong>Focus:</strong> Full Stack & IT Solutions</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h1 align="center">
- <img src="https://raw.githubusercontent.com/N1ck/gifs-for-github/master/src/images/icon48.png" width="45"> Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-</h1>
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Freelancer;On+My+Developer+Journey;I+use+NextJs+for+Frontend;ASP.NET+Core+6+for+Backend;ReactNative+and+Flutter+for+mobile;Still+exploring+stuffs;5%2B+Years+of+Coding+Experience&center=true&width=380&height=45"></a>
-</p>
+<!-- Professional summary -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+    Professional Overview
+  </h2>
+</div>
 
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/color/96/000000/web-design.png" alt="Frontend"/>
+      <h4>Frontend Excellence</h4>
+      <p>Next.js • React • TypeScript<br/>UI/UX Design • Responsive Web</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/color/96/000000/server.png" alt="Backend"/>
+      <h4>Backend Mastery</h4>
+      <p>Node.js • ASP.NET • Python<br/>MongoDB • MySQL • Cloud</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/color/96/000000/business.png" alt="Consulting"/>
+      <h4>IT Consulting</h4>
+      <p>Smart Networks • CCTV<br/>POS Systems • Automation</p>
+    </td>
+  </tr>
+</table>
 
-- 👋 Hi, I’m Divyash Chhetri
-- 👀 I'm a tech enthusiast with a passion for photography and videography
-- 🌱 Proficient in C, C++, Java, JavaScript, Python, Dart, Ruby, HTML, and CSS, with some experience in C#
-- 📫 Reach me on [Instagram - @dork_v3.0](https://www.instagram.com/dork_v3.0) or [Twitter - @dork_v2](https://www.twitter.com/dork_v2)
-- 🎓 B.E. in Information Technology
+<!-- Current roles -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> 
+    Current Roles
+  </h2>
+</div>
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Xverse_Digital-UI%2FUX_Designer-FF6B6B?style=for-the-badge&logo=figma&logoColor=white&labelColor=00d4aa"/>
+        <br/><br/>
+        <p><strong>🎨 UI/UX Designer & Frontend Developer</strong></p>
+        <p><em>Creating intuitive digital experiences</em></p>
+        <p>📍 Remote - UAE Based Company</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/ByteTech_Labs-Founder_&_CEO-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00d4aa"/>
+        <br/><br/>
+        <p><strong>🚀 IT Consultant & Solutions Provider</strong></p>
+        <p><em>Delivering integrated IT solutions across Bhutan</em></p>
+        <p>📍 Thimphu, Bhutan</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**About Me**  
-I’m a versatile full-stack developer with a strong background in Information Technology. Specializing in Next.js, ASP.NET, and the MERN stack, I bring a well-rounded skill set to freelance projects, building user-friendly applications and managing IT outsourcing efficiently. As a competitive programmer (2nd place, university-level ICPC), I’m skilled in Python, C#, JavaScript, and Java, and I have expertise in cross-platform development with React Native and Flutter. My interests also span computer hardware, multimedia, and emerging tech, which I actively explore to keep my solutions innovative and effective.
+<!-- Tech stack with animations -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+    Technology Arsenal
+  </h2>
+</div>
 
-<br />
+<!-- Languages -->
+<div align="center">
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,java,dart,cpp,c" alt="Programming Languages"/>
+  </p>
+</div>
 
+<!-- Frontend -->
+<div align="center">
+  <h3>🎨 Frontend & Design</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,sass,figma,xd" alt="Frontend"/>
+  </p>
+</div>
 
-## Get in touch with me on: ##
+<!-- Backend & Database -->
+<div align="center">
+  <h3>⚙️ Backend & Database</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,firebase,postgresql" alt="Backend"/>
+  </p>
+</div>
 
-<p align="center">
- <a href="https://twitter.com/dork_v2" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="divyashC's Twitter" width="40" height="40"/>     
- </a>
- <a href="https://www.instagram.com/dork_v3.0/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyashC's Instagram" width="40" height="40" />    
- </a>
- <a href="https://github.com/divyashC/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="divyashC's GitHub"  width="40" height="40"/>    
- </a>
- <a href="https://stackoverflow.com/users/15124365" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyashC's StackOverflow Profile"  width="40" height="40"/>    
- </a>
- <a href="https://www.linkedin.com/in/divyashc/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="divyashC's LinkedIn"  width="40" height="40"/>    
- </a>
- <a href="https://discord.com/users/Dork#0448" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="divyashC's Discord"  width="40" height="40"/>
- </a>
- <a href="https://dev.to/divyashc" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="divyashC's Dev.to Profile"  width="40" height="40"/>    
- </a>
- <a href="https://codepen.io/divyashc" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="divyashC's CodePen.io Profile"  width="40" height="40"/>    
- </a>
-<!--  <a href="mailto:divyashchhetri@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white" alt="divyashC's email - divyashchhetri@gmail.com" />    
- </a> -->
-</p>
+<!-- Mobile & Tools -->
+<div align="center">
+  <h3>📱 Mobile & DevOps</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=flutter,react,aws,azure,docker,git,linux,wordpress" alt="Mobile & DevOps"/>
+  </p>
+</div>
 
-<br/>
+<!-- Creative Suite -->
+<div align="center">
+  <h3>🎭 Creative Suite</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects" alt="Creative Suite"/>
+  </p>
+</div>
 
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
+    GitHub Analytics
+  </h2>
+</div>
 
-## Languages and Tools: ##
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=divyashC&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyashC&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="HTML" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="CSS" width="40" height="40" /> </a>
-    <a href="https://sass-lang.com/documentation" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40"
-            height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="JavaScript" width="40" height="40" /> </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node Js"
-            width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="Bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"
-            height="40" /> </a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"
-            width="40" height="40" /> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="Python" width="40" height="40" /> </a>
-    <a href="https://ruby-doc.org/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40"
-            height="40" /> </a>
-    <a href="https://dart.dev/guides" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40"
-            height="40" /> </a>
-    <a href="https://www.markdownguide.org/" target="_blank"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="MarkDown"
-        width="40" height="40" /> </a>
-  <a href="https://www.swift.org/documentation/" target="_blank"> <img
-          src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="40"
-          height="40" /> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img
-          src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind"
-          width="40" height="40" /> </a>
-     <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"
-            alt="MATLAB" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="MySQL" width="40" height="40" /> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
-            alt="Firebase" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="ReactJs" width="40" height="40" /> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJs"
-        width="40" height="40" /> </a>
-    <a href="https://expressjs.com/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJs"
-            width="40" height="40" /> </a>
-    <a href="https://flutter.dev" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
-            alt="Flutter" width="40" height="40" /> </a>
-   <a href="https://developer.android.com/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"
-            alt="Android" width="40" height="40" /> </a>
-   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
-            alt="ASP.NET" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40"
-            height="40" /> </a>
-    <a href="https://www.redhat.com/en" target="_blank"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="RedHat"
-        width="40" height="40" /> </a>
-    <a href="https://tomcat.apache.org/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40"
-            height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40"
-            height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40"
-            height="40" /> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-        alt="MSSQL" width="40" height="40" /> </a>
-    <a href="https://wordpress.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
-            alt="Wordpress" width="40" height="40" /> </a>
-    <a href="https://www.sourcetreeapp.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40"
-            height="40" /> </a>
-    <a href="https://heroku.com" target="_blank"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40"
-        height="40" /> </a>
-     <a href="https://www.vim.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40"
-            height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40"
-            height="40" /> </a>
-    <a href="https://www.canva.com/" target="_blank"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40"
-        height="40" /> </a>
-    <a href="https://codepen.io/" target="_blank"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="CodePen" width="40"
-        height="40" /> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Xd" width="40"
-            height="40" /> </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40"
-            height="40" /> </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="PhotoShop" width="40"
-            height="40" /> </a>
-     <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"
-            height="40" /> </a>
-     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40"
-            height="40" /> </a>
-</p>
- 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&theme=algolia&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</div>
 
-## Support ##
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyashC&bg_color=050f2c&color=00d4aa&line=01a3ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
-<p align="center">
- <a href="https://www.buymeacoffee.com/divyashc" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="divyashC's Buy Me a Coffee"  width="250" height="60"/>    
- </a>
-</p>
-<p align="center">Click and Donate</p>
+<!-- Trophies -->
+<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=divyashc&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
 
-<br/>
-  
-## GitHub Stats ##
+<!-- Connect section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+    Let's Connect & Collaborate
+  </h2>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="220" height="40"/> </p>
-<p align="center">@divyashC's Profile Visits</p>
+<div align="center">
+  <a href="https://linkedin.com/in/divyashc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00d4aa" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:divyashchhetri@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00d4aa" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/dork_v2" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00d4aa" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/dork_v3.0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00d4aa" alt="Instagram"/>
+  </a>
+  <a href="https://stackoverflow.com/users/15124365" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=00d4aa" alt="StackOverflow"/>
+  </a>
+  <a href="https://dev.to/divyashc" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=00d4aa" alt="Dev.to"/>
+  </a>
+</div>
 
-<br />
+<!-- Profile views counter -->
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=divyashC&style=for-the-badge&color=00d4aa&labelColor=050f2c" alt="Profile Views"/>
+</div>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyashC&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&fire=FFCB2B" alt="Divyash's GitHub Streaks"/> </p>
-<p align="center">@divyashC's GitHub Streaks</p>
+<!-- Support section -->
+<div align="center">
+  <h2>☕ Support My Work</h2>
+  <a href="https://www.buymeacoffee.com/divyashc" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=00d4aa" alt="Buy Me A Coffee"/>
+  </a>
+</div>
 
-<br />
+<!-- Inspirational quote -->
+<div align="center">
+  <h3>💭 Daily Inspiration</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=divyashC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's GitHub Stats" />
-</p>
-<p align="center">@divyashC's GitHub Stats</p>
+<!-- Call to action -->
+<div align="center">
+  <h3>🌟 Open to Opportunities</h3>
+  <p><strong>Looking for:</strong> Exciting collaborations • Innovative projects • Consulting opportunities</p>
+  <p><em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em></p>
+</div>
 
-<br/>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:01a3ff&height=120&section=footer" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's Top GitHub Languages" />
-</p>
-<p align="center">@divyashC's GitHub Languages</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=divyashC&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Divyash's GitHub Contribution Graph" />
-</p>
-<p align="center">@divyashC's GitHub Contribution Graph</p>
-
-<br/>
-
-## GitHub Trophies ##
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=divyashc&row=2&column=4&theme=darkhub" alt="Divyash's GitHub Trophies" /></p>
-<p align="center">@divyashC's GitHub Trophies</p>
-
-<br/>
-
-*Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩*
+<!-- Hidden message for curious developers -->
+<!-- 
+🕵️ Hey there, curious developer! 
+If you're reading this, you're probably inspecting the source code. 
+I appreciate your attention to detail! 
+Feel free to reach out - we might just build something amazing together! 
+- Divyash
+-->
