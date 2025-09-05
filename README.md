@@ -19,9 +19,9 @@
       <td align="center" width="45%" valign="top">
         <h3>📊 Quick Stats</h3>
         <p>🌍 <strong>Location:</strong> Thimphu, Bhutan</p>
-        <p>💼 <strong>Experience:</strong> 5+ Years</p>
+<!--         <p>💼 <strong>Experience:</strong> 5+ Years</p> -->
         <p>🎓 <strong>Education:</strong> B.E. Information Technology</p>
-        <p>🏢 <strong>Company:</strong> ByteTech Labs (Founder)</p>
+        <p>🏢 <strong>Currently with:</strong> ByteTech Labs</p>
         <p>🎯 <strong>Focus:</strong> Full Stack & IT Solutions</p>
       </td>
     </tr>
@@ -80,16 +80,16 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="45%" valign="top">
+<!--       <td align="center" width="45%" valign="top">
         <img src="https://img.shields.io/badge/Xverse_Digital-UI%2FUX_Designer-FF6B6B?style=for-the-badge&logo=figma&logoColor=white&labelColor=00d4aa"/>
         <br/><br/>
         <p><strong>🎨 UI/UX Designer & Frontend Developer</strong></p>
         <p><em>Creating intuitive digital experiences</em></p>
         <p>📍 Remote - UAE Based Company</p>
-      </td>
-      <td width="10%"></td>
+      </td> -->
+<!--       <td width="10%"></td> -->
       <td align="center" width="45%" valign="top">
-        <img src="https://img.shields.io/badge/ByteTech_Labs-Founder_&_CEO-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00d4aa"/>
+        <img src="https://img.shields.io/badge/ByteTech_Labs-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00d4aa"/>
         <br/><br/>
         <p><strong>🚀 IT Consultant & Solutions Provider</strong></p>
         <p><em>Delivering integrated IT solutions across Bhutan</em></p>
